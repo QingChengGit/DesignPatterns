@@ -1,9 +1,6 @@
 /**
  * Created by Administrator on 2015/9/28.
  */
-/**
- * Created by Administrator on 2015/9/28.
- */
 /*
  * JS 单例模式
  * @desc 获取单例对象
