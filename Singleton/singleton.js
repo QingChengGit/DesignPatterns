@@ -28,3 +28,4 @@ var getSingleton = function(createObjFn){
         return instance || (instance = createObjFn.apply(this,arguments));
     };
 };
+module.exports = getSingleton;
