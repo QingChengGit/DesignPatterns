@@ -12,3 +12,4 @@ module.exports = {
     },
     devtool: "source-map"
 };
+//启动webpack-dev-server ,然后在浏览器中访问localhost:8080即可访问了

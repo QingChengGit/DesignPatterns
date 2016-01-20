@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "js designPattern",
   "main": "app.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "webpack": "^1.12.11",
+    "webpack-dev-server": "^1.14.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
