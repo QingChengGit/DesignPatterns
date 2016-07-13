@@ -73,3 +73,7 @@ chain2.setNextProcessor(chain3);
 chain3.setNextProcessor(chain4);
 chain4.setNextProcessor(chain5);
 chain1.run('娃娃鱼');
+
+Function.prototype.nextProcess = Function.prototype.nextProcess || function(fn) {
+        
+};
